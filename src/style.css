@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0f172a;
+  color: white;
+}
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  background: #020617;
+}
+
+.navbar a {
+  color: #38bdf8;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.logo {
+  color: #22c55e;
+}
+
+/* Page */
+.page {
+  padding: 30px;
+  text-align: center;
+}
+
+/* Button */
+.btn {
+  padding: 10px 20px;
+  background: #22c55e;
+  border: none;
+  cursor: pointer;
+  margin-top: 15px;
+}
